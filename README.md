@@ -12,7 +12,7 @@ Given a univariate time series, the task is to train an unsupervised model that 
 
 ## 📊 Dataset
 
-- Sample synthetic or real-world time series dataset
+- `ambient_temperature_system_failure.csv` is the dataset.
 - Contains regular patterns and occasional anomalies
 
 ---
