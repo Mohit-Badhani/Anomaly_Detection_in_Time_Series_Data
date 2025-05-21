@@ -59,11 +59,3 @@ Used `precision_recall_fscore_support` from `sklearn.metrics` for evaluation.
 ## 📌 Output
 
 The model successfully identifies anomalies in the time series based on reconstruction error, and plots them for visual inspection.
-
----
-
-## 🧪 Future Improvements
-
-- Use LSTM Autoencoders for sequential modeling
-- Apply to multivariate time series
-- Deploy as a real-time monitoring service
